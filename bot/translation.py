@@ -14,7 +14,7 @@ For More Details Click Help Button Below..
 </b>"""    
     
     HELP_TEXT = """
-<b>You Can't see this😜         
+<b>You Can't see this😜</b>       
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
