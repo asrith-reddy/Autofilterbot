@@ -11,7 +11,7 @@ Bot gives button link to files in connected group
 
 For More Details Click Help Button Below..
 @Film_Freakers
-</i>"""    
+</b>"""    
     
     HELP_TEXT = """
 <b>You Can't see this😜         
