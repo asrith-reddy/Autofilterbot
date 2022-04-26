@@ -10,7 +10,7 @@ class Translation(object):
 Bot gives button link to files in connected group
 
 For More Details Click Help Button Below..
-@Film_Freakers
+@Filmy_Hangama
 </b>"""    
     
     HELP_TEXT = """
