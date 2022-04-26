@@ -73,7 +73,9 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/asrith-reddy/Autofilterbot)
+<a href="https://heroku.com/deploy?template=https://github.com/asrith-reddy/Autofilterbot">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+
 </a>
 </p>
 </details>
